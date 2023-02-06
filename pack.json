@@ -1,10 +1,10 @@
 {
-  "name": "Pack Name",
-  "description": "Use this field to describe the pack.",
-  "author": "GitHubUsername",
+  "name": "Gateway Galaxy",
+  "description": "Music that is heard in Gateway Galaxy in Super Mario Galaxy",
+  "author": "TheFloridaMan27",
   "version": "v1.0",
   "manifest_version": 2,
-  "music": false,
+  "music": true,
   "ignore": [],
   "mappings": {}
 }
